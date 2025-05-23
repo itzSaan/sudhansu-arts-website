@@ -1,12 +1,60 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sudhansu Arts Website
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Sudhansu Arts is a business website built using React and Tailwind CSS. The website showcases the artistic work and services offered by Sudhansu Arts.
+
+## Technologies Used
+
+
+- Frontend: React
+- Styling: Tailwind CSS
+
+## Features
+
+
+- Responsive design for seamless user experience across devices
+- Showcase of artistic work and services
+- Easy navigation and intuitive interface
+
+### Installation
+
+
+Clone the Repository
+
+bash
+
+    git clone https://github.com/your-repo/sudhansu-arts.git
+
+
+Install Dependencies
+
+bash
+
+    npm install
+
+
+Start the Development Server
+
+bash
+
+    npm start
+
+
+### Deployment
+
+
+The website is deployed on[ [Vercel](https://vercel.com), [Netlify](https://netlify.com)].
+
+### Contributing
+
+
+Contributions are welcome! If you'd like to contribute to the website, please fork the repository and submit a pull request.
+
+### Contact
+
+
+For any inquiries or feedback, please reach out to [+91 9778457485].

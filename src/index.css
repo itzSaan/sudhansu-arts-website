@@ -1,0 +1,32 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-red: oklab(62.8% 0.22 0.13);
+  --color-darkgrey: oklch(17.76% 0 0);
+  --color-midgrey: oklch(20.9% 0 0);
+  --color-grey: oklch(23.5% 0 0);
+}
+
+:root {
+  font-family: "Plus Jakarta Sans", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #111111;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* font-family: "Boldonse", system-ui; */
+}
+.font-boldonse {
+  font-family: "Boldonse", system-ui;
+}
+
+/* @media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }  
+} */
